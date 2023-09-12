@@ -1,7 +1,7 @@
 import requests, json
 
-# Define the base URL of your Django API
-base_url = "http://localhost:8000/api/"  # Replace with your API's URL
+#  base URL 
+base_url = "http://localhost:8000/api/"  
 
 # Headers for JSON content
 headers = {"Content-Type": "application/json", }
