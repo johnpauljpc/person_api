@@ -203,7 +203,7 @@ python manage.py migrate
 ```
 python manage.py runserver
 ```
-5. Access the API at http://localhost:8000/.
+5. Access the API at `http://localhost:8000/`.
 
 ## Deployment
 <li>Deploy the Django project to a production server (e.g., using a web server like Apache or Nginx).</li>
