@@ -64,7 +64,7 @@ The API will be accessible at `http://localhost:8000/`.
 
 
 
-## Example Requests
+## Examples of Requests
 
 **List all persons (GET)**
 
