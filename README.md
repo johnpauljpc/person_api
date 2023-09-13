@@ -1,4 +1,11 @@
 # Person API (HNGx stage II task)
+## Introduction
+**This is a simple REST API capable of CRUD operations on a resource, say, a "person". In other words, This REST API is capable of doing the following:**
+- Adding a new person
+- Fetching details of a person
+- Modifying details of an existing person 
+- Removing a person
+
 
 ## Project Setup
 **1. Ensure you have Python and Django installed on your system.**
